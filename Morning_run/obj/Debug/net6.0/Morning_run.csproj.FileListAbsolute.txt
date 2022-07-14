@@ -1,0 +1,15 @@
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\bin\Debug\net6.0\Morning_run.exe
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\bin\Debug\net6.0\Morning_run.deps.json
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\bin\Debug\net6.0\Morning_run.runtimeconfig.json
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\bin\Debug\net6.0\Morning_run.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\bin\Debug\net6.0\Morning_run.pdb
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.csproj.AssemblyReference.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.AssemblyInfoInputs.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.AssemblyInfo.cs
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\refint\Morning_run.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.pdb
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\Morning_run.genruntimeconfig.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Morning_run\obj\Debug\net6.0\ref\Morning_run.dll

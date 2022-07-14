@@ -1,0 +1,15 @@
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\bin\Debug\net6.0\Bank_%.exe
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\bin\Debug\net6.0\Bank_%.deps.json
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\bin\Debug\net6.0\Bank_%.runtimeconfig.json
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\bin\Debug\net6.0\Bank_%.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\bin\Debug\net6.0\Bank_%.pdb
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.csproj.AssemblyReference.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.AssemblyInfoInputs.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.AssemblyInfo.cs
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\refint\Bank_%.dll
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.pdb
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\Bank_%.genruntimeconfig.cache
+C:\Users\Olga\Downloads\GeekBrains\С#\Seminar_2\Homework\Bank_%\obj\Debug\net6.0\ref\Bank_%.dll
